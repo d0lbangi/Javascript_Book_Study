@@ -1,7 +1,7 @@
 # 모던 자바스크립트 Deep Dive_Book_Study
 
-"모던 자바스크립트 Deep Dive" 책으로 공부하는 Javascript
+"모던 자바스크립트 Deep Dive" 책으로 공부하는 Javascript 언어
 
-<img src="C:\Users\d0d0l\OneDrive\Desktop\Javascript_Book_Study\assets\XL.jpeg" alt="모던 자바스크립트 Deep Dive - 예스24" style="zoom: 25%;" width="300px" />
+<img src="./assets/XL.jpeg" alt="모던 자바스크립트 Deep Dive - 예스24" style="zoom: 25%;" width="300px" />
 
 이미지 출처 : YES24
