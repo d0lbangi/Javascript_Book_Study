@@ -22,3 +22,10 @@ genHello('Jang');
 // Jang
 // 님
 // 반갑습니다'
+
+function genDivision(innerText) {
+  return `<div>${innerText</div>`;
+}
+
+const divTag = genDivision('Jang');
+body.innerHTML = divTag;
