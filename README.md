@@ -2,9 +2,9 @@
 
 # 모던 자바스크립트 Deep Dive
 
-"모던 자바스크립트 Deep Dive" 책으로 공부하는 Javascript 언어
+"모던 자바스크립트 Deep Dive" 책으로 공부하는 Javascript
 
-#### Self-Study 진행일정 (12주)
+#### Self-Study 진행일정 (12주 소요 예정)
 
 - **5월 8일(월) ~ 7월 8일(토)**
 
